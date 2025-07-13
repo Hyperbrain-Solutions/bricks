@@ -16,7 +16,7 @@ These bricks are designed to streamline Flutter development with reusable templa
 ---
 
 ## 📁 Repository Structure
-bricks/
+```bricks/
 ├── feature_module/
 │   ├── brick.yaml
 │   └── brick/
@@ -24,7 +24,7 @@ bricks/
 │   ├── brick.yaml
 │   └── brick/
 └── …
-
+```
 Each subdirectory in `bricks/` represents a fully functional custom Mason brick.
 
 ---
